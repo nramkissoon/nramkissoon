@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/nickramki" target="blank"><img src="https://img.shields.io/twitter/follow/nickramki?logo=twitter&style=for-the-badge" alt="nickramki" /></a> </p>
 
-- 🔭 I’m currently working on [Komonitor](https://komonitor.com) - a website monitor and alerting service
-
-- 📝 I regularly write tech articles on [blog.nickramkissoon.com](blog.nickramkissoon.com)
-
 - 📫 How to reach me: **nicholas.ramkissoon01@gmail.com**
 
 <p align="left">
