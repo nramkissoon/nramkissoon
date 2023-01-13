@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A full-stack software engineer from NYC.</h3>
 
-<p align="left"> <a href="https://twitter.com/nickramki" target="blank"><img src="https://img.shields.io/twitter/follow/nickramki?logo=twitter&style=for-the-badge" alt="nickramki" /></a> </p>
+<a href="https://www.twitter.com/nickramki" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/nickramki?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/nramkissoon" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/nramkissoon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 📰 My tech blog -> <a href="https://blog.nickramkissoon.com" target="_blank">blog.nickramkissoon.com</a>
+📰 I write about tech -> <a href="https://blog.nickramkissoon.com" target="_blank">blog.nickramkissoon.com</a>
 
 <h3 align="left">Tech I work with:</h3>
   <div style="display: flex;">
