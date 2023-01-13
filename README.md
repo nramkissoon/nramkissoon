@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A full-stack software engineer from NYC.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nramkissoon&label=Profile%20views&color=0e75b6&style=flat" alt="nramkissoon" /> </p>
-
 <p align="left"> <a href="https://twitter.com/nickramki" target="blank"><img src="https://img.shields.io/twitter/follow/nickramki?logo=twitter&style=for-the-badge" alt="nickramki" /></a> </p>
 
-- 📫 How to reach me: **nicholas.ramkissoon01@gmail.com**
-
-<p align="left">
-<a href="https://twitter.com/nickramki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nickramki" height="30" width="40" /></a>
-</p>
+- 📰 My tech blog -> <a href="https://blog.nickramkissoon.com" target="_blank">blog.nickramkissoon.com</a>
 
 <h3 align="left">Tech I work with:</h3>
   <div style="display: flex;">
