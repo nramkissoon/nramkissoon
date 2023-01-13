@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A full-stack software engineer from NYC.</h3>
+<h1 align="right">Hi 👋, I'm Nick</h1>
+<h3 align="right">A full-stack software engineer from NYC.</h3>
 
 <a href="https://www.twitter.com/nickramki" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/nickramki?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -7,6 +7,7 @@
                   src="https://img.shields.io/github/followers/nramkissoon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 📰 I write about tech -> <a href="https://blog.nickramkissoon.com" target="_blank">blog.nickramkissoon.com</a>
+🏗️ Currently building <a href="https://uploadjoy.com" target="_blank">Uploadjoy</a> -> an object storage service
 
 <h3 align="left">Tech I work with:</h3>
   <div style="display: flex;">
