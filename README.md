@@ -17,6 +17,7 @@
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
   <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
+  <a href="https://aws.amazon.com"> <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="48" height="48" alt="AWS" /></a>
 </div>
 
 ### Stats
